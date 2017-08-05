@@ -7,3 +7,8 @@
 * Orbit controls to smoothly turn the camera around the model.
 * Nearest-neighbor filtering and a pure white ambient light to showcase pixel art textures.
 * All libraries taken from the [three.js](https://github.com/mrdoob/three.js/) repository.
+
+## Demo
+
+1. `npm install http-server -g`
+2. run `http-server -p 8000` from the root folder
